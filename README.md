@@ -12,7 +12,7 @@ Para instalar e executar este projeto localmente, siga as instruções abaixo:
 
 1. Clonar o Repositório
 - git clone https://github.com/fernando-maio/ip4y
-- cd nome-do-repositorio
+- cd ip4y
 
 2. Configurar o Ambiente
 - Copie o arquivo .env.example para .env e configure as variáveis de ambiente conforme necessário:
